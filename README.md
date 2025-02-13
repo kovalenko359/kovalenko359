@@ -1,15 +1,7 @@
 <h3>👋 Hi, I’m @kovalenko359</h3>
-
 I’m currently learning PHP, JS, Python, C/C++
-
-
-
-
-
-
-
+<br><br><br>
 <h3><b><i>ANDREI KOVALENKO</i></b></h3>
-
 - <b>Email:</b> a.kovalenko1079@gmail.com
 
 - <b>Phone number:</b> +79685552010
