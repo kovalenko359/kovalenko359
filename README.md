@@ -1,14 +1,12 @@
-# 👋 Hi, I’m @kovalenko359
+👋 Hi, I’m @kovalenko359
 
-- I’m currently learning PHP, JS, Python, C/C++
+I’m currently learning PHP, JS, Python, C/C++
 
-<h1><b><i>ANDREI KOVALENKO</i></b></h1>
+<h3><b><i>ANDREI KOVALENKO</i></b></h3>
 
-<b>Email:</b> a.kovalenko1079@gmail.com / <b>Phone number:</b> +79685552010
-
-<b>Pronouns:</b> He/Him
-
-<b>Location:</b> Moscow, Russia 
+- <b>Email:</b> a.kovalenko1079@gmail.com / <b>Phone number:</b> +79685552010
+- <b>Pronouns:</b> He/Him
+- <b>Location:</b> Moscow, Russia 
 
 <!---
 kovalenko359/kovalenko359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
