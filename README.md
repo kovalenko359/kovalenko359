@@ -1,6 +1,6 @@
 <h3>👋 Hi, I’m @kovalenko359</h3>
-I’m currently learning PHP, JS, Python, C/C++
-<br><br><br>
+I am 14 years old. I am interested in the inner workings of computers, operating systems, microcontrollers and their programming, as well as creating various projects using Arduino and Raspberry Pi. I am also interested in web design and the server-side of websites. Here, I will be sharing my projects under the GNU GPL v3.0 license. Feel free to fork my repositories and suggest code changes. I’m currently learning PHP, JS, Python, C/C++, Assembly.
+<br><br>
 <h2><b><i>ANDREI KOVALENKO</i></b></h2>
 
 - <b>Email:</b> a.kovalenko1079@gmail.com
