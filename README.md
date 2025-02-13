@@ -1,9 +1,5 @@
 <h3>👋 Hi, I’m @kovalenko359</h3>
-\n
 I’m currently learning PHP, JS, Python, C/C++
-\n
-\n
-\n
 <h2><b><i>ANDREI KOVALENKO</i></b></h2>
 - <b>Email:</b> a.kovalenko1079@gmail.com
 - <b>Phone number:</b> +79685552010
