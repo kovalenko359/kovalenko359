@@ -2,7 +2,7 @@
 
 I’m currently learning PHP, JS, Python, C/C++
 
-<h3><b><i>ANDREI KOVALENKO</i></b></h3>
+<h2><b><i>ANDREI KOVALENKO</i></b></h2>
 
 - <b>Email:</b> a.kovalenko1079@gmail.com / <b>Phone number:</b> +79685552010
 - <b>Pronouns:</b> He/Him
