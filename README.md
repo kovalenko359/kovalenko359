@@ -4,8 +4,11 @@
 I’m currently learning PHP, JS, Python, C/C++
 
 <b><i>ANDREI KOVALENKO</i></b>
+
 <b>Email:</b> a.kovalenko1079@gmail.com / <b>Phone number:</b> +79685552010
+
 <b>Pronouns:</b> He/Him
+
 <b>Location:</b> Moscow, Russia 
 
 <!---
